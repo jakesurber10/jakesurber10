@@ -39,7 +39,7 @@ I plan and execute store floorplans for one of Kroger's largest merchandising pr
 
 ## GitHub Stats
 
-![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakesurber10&show_icons=true&theme=default&hide_title=true)
+![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakesurber10&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 ## Connect
 
